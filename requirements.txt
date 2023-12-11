@@ -1,0 +1,8 @@
+tensorflow-cpu
+numpy
+pillow
+matplotlib
+scikit-image
+scipy
+flask
+gunicorn
