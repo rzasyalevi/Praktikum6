@@ -1,7 +1,5 @@
 # Praktikum6
 
-Overview Dataset
-Link Dataset yang digunakan : Acral melanoma and benign data set. Gambar yang digunakan adalah Dermoscopic Images dengan total gambar 724 gambar. Terdiri dari 350 gambar Acral Melanoma dan 374 gambar benign nevi
 
 Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 
