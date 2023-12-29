@@ -33,7 +33,7 @@ Hasil Prediksi
 
 Local web
 
-![20231211_081253](https://github.com/rzasyalevi/Praktikum6/assets/71588692/a6bd92df-dd3a-44fa-bbd6-c749a189cd00)
+![20231229_164242](https://github.com/rzasyalevi/Praktikum6/assets/71588692/8da8b9e6-fddb-4014-8e0a-d21db118fbc7)
 
 
 ![20231211_081240](https://github.com/rzasyalevi/Praktikum6/assets/71588692/352f3e13-9b94-46fb-9a12-97e93642f076)
